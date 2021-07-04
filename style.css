@@ -1,0 +1,24 @@
+.box1{
+    border: 2px solid rgb(240,240,240);
+}
+
+.btn:hover{
+    background-color: white !important;
+}
+
+.form-control{
+    border-right: 0 !important;
+}
+
+.input-group-text {
+    background-color: transparent !important;
+
+}
+
+.btn{
+    color: #0c22cb !important;
+    border: solid #0c22cb !important;
+    border-radius: 0 !important;
+    background-color: white;
+    
+}
